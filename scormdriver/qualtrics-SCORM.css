@@ -1,0 +1,70 @@
+/* Place your CSS here */
+.Skin #LogoBar{
+  visibility:hidden;
+}
+html .Skin #Logo{
+  height:0px;
+  visibility:hidden;
+}
+
+html .Skin #Buttons {
+  padding: 0pt 0px 0pt 0px;
+  text-align: center;
+  visibility:hidden;
+}
+
+html .Skin #Plug {
+  margin-bottom: 0px;
+  margin-top: 0pt;
+  text-align: center;
+  font-size: 0%;
+  visibility:hidden;
+}
+
+html .Skin .ProgressBarFill {
+  background: #990000;
+  height:9px !important;
+}
+
+html .Skin #ProgressBar {
+  height:10px !important;
+  visibility:hidden;
+}
+
+.Skin .QuestionText {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 15pt;
+  font-weight: normal !important;
+  padding-left: 0px;
+  background: #fff;
+  color: white;
+  font-style: normal !important;
+}
+
+.Skin #Questions .QuestionText, .Skin #Questions .Selection {
+padding-top: 0px;
+padding-bottom: 10px;
+padding-left: 0px;
+border-bottom: 0px none #aaa;
+}
+
+.Skin .HeaderValidationError {
+  font-size: 60% !important;
+  position: absolute !important;
+  left: 10px;
+  width: 180px;
+  z-index: 1;
+}
+
+
+
+.Skin .ValidationError {
+  font-size: 90% !important;
+  color: #cc0000;
+  font-weight: bold;
+  text-align: center;
+}
+
+fieldset {
+ padding-left: 10px;
+}?
